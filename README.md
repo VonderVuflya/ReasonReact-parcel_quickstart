@@ -1,4 +1,4 @@
-#ReasonReact-parcel_quickstart
+# ReasonReact-parcel_quickstart
 
 Quickstart to your ReactReason + parcel project
 
