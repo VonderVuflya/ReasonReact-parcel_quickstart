@@ -1,0 +1,15 @@
+{
+  "name": "ReasonReact-parcel_quickstart",
+  "version": "1.0.0",
+  "author": "Sergey Cherkashin",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^4.0.5",
+    "bsb-js": "^1.1.7"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "reason-react": "^0.5.3"
+  }
+}
