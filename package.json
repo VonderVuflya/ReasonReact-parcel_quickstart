@@ -4,7 +4,7 @@
   "author": "Sergey Cherkashin",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^4.0.5",
+    "bs-platform": "^5.0.6",
     "bsb-js": "^1.1.7"
   },
   "dependencies": {
